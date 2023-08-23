@@ -16,7 +16,7 @@ release = '0.1'
 
 #extensions = []
 extensions = [
-     'recommonmark',
+     #'recommonmark',
      'sphinx_markdown_tables', 
      #'myst_parser'
  ]
