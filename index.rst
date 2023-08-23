@@ -10,7 +10,7 @@ Welcome to seisitools's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   main/picker/picker.md
+   main/picker/picker
 
 
 Indices and tables
