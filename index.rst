@@ -11,6 +11,7 @@ Welcome to seisitools's documentation!
    :caption: Contents:
    
    main/picker/picker
+   main/database/database
 
 
 Indices and tables
